@@ -1,0 +1,19 @@
+{
+    "Cloth": {},
+    "Stone": {
+        "Name": "Breppa",
+        "Element": "Water",
+        "Map": ["Agglid Passage"],
+        "Drop": ["Stone"]
+    },
+    "Mana": {},
+    "Medicine": {},
+    "Beast": {},
+    "Wood": {},
+    "Summer": {
+        "Name": "Breppa",
+        "Element": "Water",
+        "Map": ["Agglid Passage"],
+        "Drop": ["Stone", "Summer Shell"]
+    }
+}

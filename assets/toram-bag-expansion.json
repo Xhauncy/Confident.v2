@@ -1,0 +1,738 @@
+{
+    "Bag-expansion": {
+        "51": {
+            "Item Name": [
+                "Colon Skin x1"
+            ],
+            "Moster Drop": [
+                "Colon (Lv 4)/Boss Colon(Boss Lv 10-50)"
+            ],
+            "Location": [
+                "Land Under Development"
+            ]
+        },
+        "52": {
+            "Item Name": [
+                "Gorgeous Fur x1"
+            ],
+            "Moster Drop": [
+                "Lavarca (Lv 21)"
+            ],
+            "Location": [
+                "Rakau Plain"
+            ]
+        },
+        "53": {
+            "Item Name": [
+                "1.000 Spina"
+            ],
+            "Moster Drop": [
+                "-"
+            ],
+            "Location": [
+                "-"
+            ]
+        },
+        "54": {
+            "Item Name": [
+                "Minotaur Skin x1"
+            ],
+            "Moster Drop": [
+                "Minotaur (Boss Lv 22-90)"
+            ],
+            "Location": [
+                "Ruined Temple: Forbidden Hall"
+            ]
+        },
+        "55": {
+            "Item Name": [
+                "Forest Wolf Skin x1",
+                "Goblin Medal x1"
+            ],
+            "Moster Drop": [
+                "Forest Wolf (Boss Lv 20-70)",
+                "Boss Goblin (Boss Lv30-80)"
+            ],
+            "Location": [
+                "Marbaro Forest: Deepest Part",
+                "Ribisco Cave: Deepest Part"
+            ]
+        },
+        "56": {
+            "Item Name": [
+                "2.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "57": {
+            "Item Name": [
+                "Mochelo Fur x1"
+            ],
+            "Moster Drop": [
+                "Mochelo (Boss Lv 33-83)"
+            ],
+            "Location": [
+                "Fiery Volcano: Area 3"
+            ]
+        },
+        "58": {
+            "Item Name": [
+                "Green Dragon Fur x1",
+                "High Quality Horn x10"
+            ],
+            "Moster Drop": [
+                "Forestia (Boss)",
+                "Billy (Lv 24)"
+            ],
+            "Location": [
+                "Land Of Chaos",
+                "Yorl Highlands"
+            ]
+        },
+        "59": {
+            "Item Name": [
+                "Boss Roga’s Belt x1",
+                "Broadcloth x10"
+            ],
+            "Moster Drop": [
+                "Boss Roga (Boss)",
+                "Orc (Lv 46)"
+            ],
+            "Location": [
+                "Saham Underground Cave: Deepest Part",
+                "Saham Crater"
+            ]
+        },
+        "60": {
+            "Item Name": [
+                "6.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "61": {
+            "Item Name": [
+                "Sharp Bear Claw x2",
+                "Sheeting Fabric x20"
+            ],
+            "Moster Drop": [
+                "Violacoon (Mini Boss)",
+                "Ca*sy (Lv 47/48)"
+            ],
+            "Location": [
+                "Darkanon Plain",
+                "Ancient Empress Tomb: A2/A3"
+            ]
+        },
+        "62": {
+            "Item Name": [
+                "Heavy Tough Chain x2",
+                "Polyester Cloth x20"
+            ],
+            "Moster Drop": [
+                "Masked Warrior (Boss)",
+                "Wandering Shadow (Lv 56)"
+            ],
+            "Location": [
+                "Land Under Cultivation: Hill",
+                "Lost Town/Lost Town: Square"
+            ]
+        },
+        "63": {
+            "Item Name": [
+                "Gra*s Dragon’s Scale x2",
+                "Space Wolf Fur x20"
+            ],
+            "Moster Drop": [
+                "Gra*s Dragon Yelb (Boss)",
+                "Outer World Wolf (Mini Boss)"
+            ],
+            "Location": [
+                "Albatif Village",
+                "Gate to Another World: A1/A2"
+            ]
+        },
+        "64": {
+            "Item Name": [
+                "8.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "65": {
+            "Item Name": [
+                "Torn Cloak x2",
+                "Squirrel Fur x20"
+            ],
+            "Moster Drop": [
+                "Goovua (Boss)",
+                "Rodentail (Lv 52/55)"
+            ],
+            "Location": [
+                "Akaku Desert: Hill",
+                "Maia Diela"
+            ]
+        },
+        "66": {
+            "Item Name": [
+                "Jade Raptor Horn x2",
+                "Goat Fur x20"
+            ],
+            "Moster Drop": [
+                "Jade Raptor (Boss)",
+                "Koza (Lv 63)"
+            ],
+            "Location": [
+                "Gravel Terrace",
+                "Dunkel Valley"
+            ]
+        },
+        "67": {
+            "Item Name": [
+                "Twilight Dragon Wing x2",
+                "Fleecy Fur x20"
+            ],
+            "Moster Drop": [
+                "Twilight Dragon (Boss)",
+                "Rabby (Lv 68)"
+            ],
+            "Location": [
+                "Fort Solfini: Roof",
+                "Polde Ice Valley"
+            ]
+        },
+        "68": {
+            "Item Name": [
+                "16.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "69": {
+            "Item Name": [
+                "Chain of Purgatory x2",
+                "Wavering Cloth x20"
+            ],
+            "Moster Drop": [
+                "Cerberus (Boss)",
+                "Jewel Eye (Lv 84)"
+            ],
+            "Location": [
+                "Spring of Rebirth: Top",
+                "Spring of Rebirth: Middle/Upper"
+            ]
+        },
+        "70": {
+            "Item Name": [
+                "Aranea Silk x2",
+                "Small Spider Silk x20"
+            ],
+            "Moster Drop": [
+                "Aranea (Boss)",
+                "Aramia (Lv 87)"
+            ],
+            "Location": [
+                "Garden of Sublimation: Central Part",
+                "Garden of Sublimation: A2/A3"
+            ]
+        },
+        "71": {
+            "Item Name": [
+                "Copied Goddess’s Cloth x3",
+                "Floating Cloth x10",
+                "Soft Paw x20"
+            ],
+            "Moster Drop": [
+                "Imitacia (Boss)",
+                "Flying Executioner (Lv 89)",
+                "Bunny Summoner (Lv 79)"
+            ],
+            "Location": [
+                "Dark Castle: Grand Hall",
+                "Cradle of Soldier: Entrance/Inside",
+                "Trace of Dark River"
+            ]
+        },
+        "72": {
+            "Item Name": [
+                "Evil Beast Mane x3",
+                "Hard Paw Pad x10",
+                "Dark Shadow Feather x20"
+            ],
+            "Moster Drop": [
+                "Memecoleous (Boss)",
+                "Manticore (Lv 96)",
+                "Shadow Fly (Lv 94)"
+            ],
+            "Location": [
+                "Dark Castle: A2",
+                "Dark Castle: A1",
+                "Dark Castle: A1/A2/A3"
+            ]
+        },
+        "73": {
+            "Item Name": [
+                "32.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "74": {
+            "Item Name": [
+                "Tapir Fur x3",
+                "Stiff Fur x10",
+                "Anti-Rust Oil x20"
+            ],
+            "Moster Drop": [
+                "Tapir (Boss)",
+                "Wooly (Lv 96)",
+                "Ornis Demi Machina (Lv 85)"
+            ],
+            "Location": [
+                "Blazing Graben: Surface",
+                "Blazing Graben: Surface",
+                "Artillery Defense Line"
+            ]
+        },
+        "75": {
+            "Item Name": [
+                "Ancient Fabric x3",
+                "Soft Tree Bark x10",
+                "Dirty Potum Hair x20"
+            ],
+            "Moster Drop": [
+                "Proto Leon (Boss)",
+                "Floral Bee (Lv 91)",
+                "Slum Potum (Lv 89)"
+            ],
+            "Location": [
+                "Singolare Ruins: 3rd Floor",
+                "Site of Simcracker",
+                "Klaspe Slum"
+            ]
+        },
+        "76": {
+            "Item Name": [
+                "Crimson Huge Bone x3",
+                "Torn Black Coat x10",
+                "Torn Chain x20"
+            ],
+            "Moster Drop": [
+                "Dusk Machina (Mini Boss)",
+                "Rugos Demi Machina (Lv 105/108)",
+                "Torture Machina (Lv 106/109)"
+            ],
+            "Location": [
+                "Small Demi Machina Factory: A2",
+                "Small Demi Machina Factory: A1/A2/A3",
+                "Small Demi Machina Factory: A1/A2/A3"
+            ]
+        },
+        "77": {
+            "Item Name": [
+                "Chimera Scale x3",
+                "Mysterious Luminary x10",
+                "Tough Tentacle x20"
+            ],
+            "Moster Drop": [
+                "Mozto Machina (Boss)",
+                "Horn Machina (Lv 109/110)",
+                "Ledon Machina (Lv 108/111)"
+            ],
+            "Location": [
+                "Large Demi Machina Factory: Deepest Part",
+                "Large Demi Machina Factory: A1/A2/A3",
+                "Large Demi Machina Factory: A1/A2/A3"
+            ]
+        },
+        "78": {
+            "Item Name": [
+                "64.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "79": {
+            "Item Name": [
+                "Forest Spirit's Robe x3",
+                "Plant Fang x10",
+                "Felt Fabric x20"
+            ],
+            "Moster Drop": [
+                "Lalvada (Boss)",
+                "Nepenthe (Lv 113/114)",
+                "Puppet Dragon (Lv 114/115/116)"
+            ],
+            "Location": [
+                "Monster's Forest: Deep Part",
+                "Monster's Forest: Foggy Way/Animal Trail/Deep Part",
+                "Lufenas Mansion: Entrance/Corridor/Library"
+            ]
+        },
+        "80": {
+            "Item Name": [
+                "Lyark Alloy x3",
+                "Torn Officer Clothes x10",
+                "Ox Fabric x20"
+            ],
+            "Moster Drop": [
+                "Gwaimol (Boss)",
+                "Lyark Jailer (Lv 120/121)",
+                "Lyark Specialist (Lv 119)"
+            ],
+            "Location": [
+                "Cuervo Jail: Roof",
+                "Cuervo Jail: 1F/2F",
+                "Brahe Laboratory: 2nd Building"
+            ]
+        },
+        "81": {
+            "Item Name": [
+                "Light Emitting Cloth x4",
+                "Damaged Artificial Leather x20",
+                "Executer’s Loincloth x20"
+            ],
+            "Moster Drop": [
+                "Seraph Machina (Boss)",
+                "Lyark Brawler (Lv 124/126/127)",
+                "Volo (Lv 124/125)"
+            ],
+            "Location": [
+                "Buried Tower: Inside",
+                "Suburb of Droma Square: A1/A2/A3",
+                "Suburb of Droma Square: A2/A3"
+            ]
+        },
+        "82": {
+            "Item Name": [
+                "Lil Empress Cloth Piece x4",
+                "Hard Armor Bit x20",
+                "Snake Skin x20"
+            ],
+            "Moster Drop": [
+                "Venena Coenubia (Boss)",
+                "High Tigris (Lv 128/129)",
+                "Pond Snake (Lv 115)"
+            ],
+            "Location": [
+                "Ultimea Palace: Throne",
+                "Ultimea Palace: Storage A1/Demi Machina Storage",
+                "Copia Reservoir"
+            ]
+        },
+        "83": {
+            "Item Name": [
+                "100.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "84": {
+            "Item Name": [
+                "Mom Fluck Skin x4",
+                "Colon Big Leaf x20",
+                "Vertical Stripe Fur x20"
+            ],
+            "Moster Drop": [
+                "Mom Fluck (Boss)",
+                "Leedle Colon (Lv 128)",
+                "Tehon (Lv 119/122/131)"
+            ],
+            "Location": [
+                "Forgotten Cave",
+                "Rokoko Plains",
+                "Curonne Forest: East/North A1"
+            ]
+        },
+        "85": {
+            "Item Name": [
+                "Mardula Spiritual Cloth x4",
+                "Mysterious Shiny Cloth x20",
+                "Grey Feather x20"
+            ],
+            "Moster Drop": [
+                "Mardula (Boss)",
+                "Bubble Angel (Green/White/Red/Blue)",
+                "Haliabubo (Lv 139)"
+            ],
+            "Location": [
+                "Hall of Blessings Gods",
+                "Shrine of The Gods: A1/A2/A3",
+                "Ruins of Mt. Mithurna: Stylobate"
+            ]
+        },
+        "86": {
+            "Item Name": [
+                "Carbuncle Fur x4",
+                "Knit Fabric x20",
+                "Bag Bear Tail x20"
+            ],
+            "Moster Drop": [
+                "Carbuncle (Mini Boss)",
+                "Bubble Angel (Purple/White/Yellow)",
+                "Oddy (Lv 144/145)"
+            ],
+            "Location": [
+                "Hall of Construction Gods",
+                "Shrine of the Gods: A4/Heresy Corridor/Hall of Special",
+                "Shrine of the Gods: A4/Hall of Construction Gods"
+            ]
+        },
+        "87": {
+            "Item Name": [
+                "King Piton Fur x4",
+                "Thick White Fur x20",
+                "Stiff Grey Fur x20"
+            ],
+            "Moster Drop": [
+                "King Piton (Boss)",
+                "Billy (Lv 136/139)",
+                "Silveria (Lv 149/151)"
+            ],
+            "Location": [
+                "Elf Mountains: Shrine",
+                "Garden of Ice & Snow",
+                "Elf Mountains: A1/A3"
+            ]
+        },
+        "88": {
+            "Item Name": [
+                "Ancient Angot x4",
+                "Ice Wolf Fang x20",
+                "Dusky Fabric x20"
+            ],
+            "Moster Drop": [
+                "Thug Golem (Mini Boss)",
+                "Corloup (Lv 147/148/149)",
+                "Soul Reaper (Lv 151/152)"
+            ],
+            "Location": [
+                "Dark Dragon Shrine: Middle",
+                "Elf Mountains: A1/A2/A3",
+                "Dark Dragon Shrine: Lower/Middle"
+            ]
+        },
+        "89": {
+            "Item Name": [
+                "200.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "90": {
+            "Item Name": [
+                "Tuscog Fang x4",
+                "Larva Silk x20",
+                "Werewolf Fur x20"
+            ],
+            "Moster Drop": [
+                "Tuscog (Boss)",
+                "Moss Mole (Lv 146)",
+                "Wolfret (Lv 156/157)"
+            ],
+            "Location": [
+                "Eryldan Street: Near the Forest of Ein",
+                "Forest of Ein",
+                "Eryldan Street: A2/A3"
+            ]
+        },
+        "91": {
+            "Item Name": [
+                "Kuzto Splinter x5",
+                "Stoat Fur x20",
+                "Mysterious Waist Sash x30"
+            ],
+            "Moster Drop": [
+                "Kuzto (Boss)",
+                "Sentreast (Lv 147/150)",
+                "Moculus (Lv 160/161)"
+            ],
+            "Location": [
+                "Labilans Sector: Square",
+                "Fabriska Sector",
+                "Fractum Sector: A1/A2/A3"
+            ]
+        },
+        "92": {
+            "Item Name": [
+                "Crystal Pouch x5",
+                "Cushy Tail x20",
+                "Sturdy Papula x30"
+            ],
+            "Moster Drop": [
+                "Canemofish (Mini Boss)",
+                "Alpoca (Lv 164/165/155/153)",
+                "Toxinaria (Lv 170/171/172)"
+            ],
+            "Location": [
+                "Recetacula Sector: A1",
+                "Labilans Sector: A2/A3/Dikkit Sector",
+                "Recetacula Sector: A1/A2/A3"
+            ]
+        },
+        "93": {
+            "Item Name": [
+                "Repthon Wings x5",
+                "Legume Button x20",
+                "Frock Coat Scrap x30"
+            ],
+            "Moster Drop": [
+                "Repthon (Boss)",
+                "Marquis Colon (Lv 161)",
+                "Swirly Whirly (Lv 173/174/175)"
+            ],
+            "Location": [
+                "Deltzon Research Zone: Deepest Area",
+                "Old Lufenas Mansion Ruins",
+                "Deltzon Research Zone: A1/A2/A3"
+            ]
+        },
+        "94": {
+            "Item Name": [
+                "Empress Ogre Hair x5",
+                "Torn Red Cloth x20",
+                "Corroded Leather x30"
+            ],
+            "Moster Drop": [
+                "Venena Metacoenubia (Boss)",
+                "Sand Bandits Potum (Lv 174/177)",
+                "Cabrigo (Lv 177)"
+            ],
+            "Location": [
+                "Neo Plastida",
+                "Geist Desert: A1/A3",
+                "Ruins of Urban Elban"
+            ]
+        },
+        "95": {
+            "Item Name": [
+                "300.000 Spina"
+            ],
+            "Moster Drop": [
+                ""
+            ],
+            "Location": [
+                ""
+            ]
+        },
+        "96": {
+            "Item Name": [
+                "Pisteus Bone x5",
+                "Phantom Cloth x20",
+                "Sea Otter Fur x30"
+            ],
+            "Moster Drop": [
+                "Pisteus (Boss)",
+                "Flooray (Lv 162/165/167)",
+                "Lutris (Lv 178/179)"
+            ],
+            "Location": [
+                "Ducia Coast: Depths",
+                "Lunagent Cliff Base/Inje Village",
+                "Ducia Coast: A2/A3"
+            ]
+        },
+        "97": {
+            "Item Name": [
+                "Arachnidemon Wing x5",
+                "Metal Shackles x20",
+                "Weird Snake Skin x30"
+            ],
+            "Moster Drop": [
+                "Arachnidemon (Boss)",
+                "Besy (Lv 182/183/184)",
+                "Coofer (Lv 171/174/178)"
+            ],
+            "Location": [
+                "Arche Valley: Depths",
+                "Arche Valley: A1/A2/A3",
+                "Rokoko City Ruins/Nezim Wetlands"
+            ]
+        },
+        "98": {
+            "Item Name": [
+                "Slimy Hide x5",
+                "Enty Cloth x20",
+                "Sturdy Core x30"
+            ],
+            "Moster Drop": [
+                "Lord of Nezim (Mini Boss)",
+                "Enty (Lv 185/186/187)",
+                "Eerie Scarecrow (Lv 183/184/185)"
+            ],
+            "Location": [
+                "Nezim Wetlands",
+                "Witch’s Woods A1/A2/A3",
+                "Witch’s Woods A1/A2/A3"
+            ]
+        },
+        "99": {
+            "Item Name": [
+                "Inferno Curse Cloth Scrap x5",
+                "Kappa’s Plate x20",
+                "Crow Feather x30"
+            ],
+            "Moster Drop": [
+                "Hexter (Boss)",
+                "Kappadon (Lv 175/177)",
+                "Eerie Scarecrow (Lv 183/184/185)"
+            ],
+            "Location": [
+                "Witch’s Woods Depths",
+                "Nezim Wetlands",
+                "Witch’s Woods A1/A2/A3"
+            ]
+        },
+        "100": {
+            "Item Name": [
+                "Wriggling Latebra x5",
+                "Viscous Liquid x20",
+                "Bizarre Skin x30"
+            ],
+            "Moster Drop": [
+                "Trocostida (Mini Boss)",
+                "Juvestida (Lv 186/187/188)",
+                "Evil Eye (Lv 169)"
+            ],
+            "Location": [
+                "Nov Diela Area 1",
+                "Nov Diela A1/A2/A3",
+                "Morga Wasteland: A1"
+            ]
+        }
+    },
+    "Crafting": {}
+}

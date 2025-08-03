@@ -1,0 +1,1034 @@
+{
+    "MP": {
+        "Simple Code": {
+            "1": {
+                "Code": "1020808",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "4/14/2024"
+            },
+            "2": {
+                "Code": "1010216",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "4/13/2024"
+            },
+            "3": {
+                "Code": "3080021",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "4": {
+                "Code": "6010021",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "5": {
+                "Code": "6052000",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "6": {
+                "Code": "7010047",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "7": {
+                "Code": "1010203",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "8": {
+                "Code": "6010062",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "9": {
+                "Code": "1010032",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "10": {
+                "Code": "1010084",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "11": {
+                "Code": "1011945",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "12": {
+                "Code": "1234567",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "13": {
+                "Code": "3011143",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "14": {
+                "Code": "1010101",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "4/2/2023"
+            },
+            "15": {
+                "Code": "7077777",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/05/2024"
+            },
+            "16": {
+                "Code": "1020345",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "6/22/2025"
+            },
+            "17": {
+                "Code": "1240000",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "18": {
+                "Code": "9090090",
+                "Status": "Online",
+                "Level": "8",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "HP": {
+        "Simple Code": {
+            "1": {
+                "Code": "3011143",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "2": {
+                "Code": "1180755",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "3": {
+                "Code": "1010032",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "4": {
+                "Code": "1010084",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "5": {
+                "Code": "1010101",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/24/2025"
+            },
+            "6": {
+                "Code": "1011945",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "7": {
+                "Code": "1234567",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "8": {
+                "Code": "1010101",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "9": {
+                "Code": "1107777",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "STR": {
+        "Simple Code": {
+            "1": {
+                "Code": "4016699",
+                "Status": "",
+                "Level": "-",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "1011126",
+                "Status": "Online",
+                "Level": "8",
+                "Last Update": "3/22/2023"
+            },
+            "3": {
+                "Code": "7070777",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "4": {
+                "Code": "1010055",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "5": {
+                "Code": "1110007",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "3226325",
+                "Status": "Online",
+                "Level": "6",
+                "Last Update": "6/22/2025"
+            },
+            "7": {
+                "Code": "1024434",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "INT": {
+        "Simple Code": {
+            "1": {
+                "Code": "1018989",
+                "Status": "",
+                "Level": "8",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "4269420",
+                "Status": "",
+                "Level": "9",
+                "Last Update": "3/14/2023"
+            },
+            "3": {
+                "Code": "6010701",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "4": {
+                "Code": "3030069",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            }
+        }
+    },
+    "VIT": {
+        "Simple Code": {
+            "1": {
+                "Code": "7190001",
+                "Status": "",
+                "Level": "4",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "4032850",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "AGI": {
+        "Simple Code": {
+            "1": {
+                "Code": "7162029",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/21/2025"
+            },
+            "2": {
+                "Code": "1010050",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "3": {
+                "Code": "1010101",
+                "Status": "",
+                "Level": "8",
+                "Last Update": "6/21/2025"
+            },
+            "4": {
+                "Code": "1010055",
+                "Status": "Online",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "5": {
+                "Code": "7150030",
+                "Status": "Online",
+                "Level": "4",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "1110007",
+                "Status": "Online",
+                "Level": "8",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "DEX": {
+        "Simple Code": {
+            "1": {
+                "Code": "1010058",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "6010003",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "3": {
+                "Code": "1010058",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "4": {
+                "Code": "5010092",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "5": {
+                "Code": "5236969",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "1107777",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "+Aggro": {
+        "Simple Code": {
+            "1": {
+                "Code": "1013000",
+                "Status": "",
+                "Level": "9",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "3204544",
+                "Status": "",
+                "Level": "7",
+                "Last Update": "3/14/2023"
+            },
+            "3": {
+                "Code": "1012000",
+                "Status": "",
+                "Level": "7",
+                "Last Update": "3/22/2023"
+            },
+            "4": {
+                "Code": "1010203",
+                "Status": "",
+                "Level": "7",
+                "Last Update": "3/22/2023"
+            },
+            "5": {
+                "Code": "1264321",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "3030110",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "7": {
+                "Code": "2020606",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "-Aggro": {
+        "Simple Code": {
+            "1": {
+                "Code": "1010038",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "7190001",
+                "Status": "",
+                "Level": "7",
+                "Last Update": "3/14/2023"
+            },
+            "3": {
+                "Code": "1010002",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Barrier": {
+        "Simple Code": {
+            "1": {
+                "Code": "6010062",
+                "Status": "",
+                "Level": "8",
+                "Last Update": "3/22/2023"
+            },
+            "2": {
+                "Code": "1222002",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "3": {
+                "Code": "6181999",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "4": {
+                "Code": "4032850",
+                "Status": "Online",
+                "Level": "4",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "P.Resist": {
+        "Simple Code": {
+            "1": {
+                "Code": "1018989",
+                "Status": "",
+                "Level": "9",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "1100000",
+                "Status": "",
+                "Level": "9",
+                "Last Update": "3/14/2023"
+            },
+            "3": {
+                "Code": "3010034",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "4": {
+                "Code": "1020001",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "5": {
+                "Code": "6010701",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/24/2025"
+            },
+            "6": {
+                "Code": "110000",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            },
+            "7": {
+                "Code": "9090090",
+                "Status": "Online",
+                "Level": "8",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "M.Resist": {
+        "Simple Code": {
+            "1": {
+                "Code": "1010004",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "2020505",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "Accuracy": {
+        "Simple Code": {
+            "1": {
+                "Code": "1010013",
+                "Status": "",
+                "Level": "9",
+                "Last Update": "3/14/2023"
+            },
+            "2": {
+                "Code": "4261111",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "5/21/2025"
+            },
+            "3": {
+                "Code": "1010038",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "AMPR": {
+        "Simple Code": {
+            "1": {
+                "Code": "3062728",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "4/13/2024"
+            },
+            "2": {
+                "Code": "1010017",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "4/13/2024"
+            },
+            "3": {
+                "Code": "1010092",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/19/2023"
+            },
+            "4": {
+                "Code": "1010006",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/19/2023"
+            },
+            "5": {
+                "Code": "5240001",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "1010050",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/19/2023"
+            },
+            "7": {
+                "Code": "4040404",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "8": {
+                "Code": "1010050",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "9": {
+                "Code": "4083005",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            },
+            "10": {
+                "Code": "4261111",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "11": {
+                "Code": "3226325",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "12": {
+                "Code": "5236969",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "13": {
+                "Code": "6181999",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "6/22/2025"
+            },
+            "14": {
+                "Code": "1047777",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "15": {
+                "Code": "7123456",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Cr": {
+        "Simple Code": {
+            "1": {
+                "Code": "7162029",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "4/13/2024"
+            },
+            "2": {
+                "Code": "1069927",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/19/2023"
+            },
+            "3": {
+                "Code": "1100000",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "4": {
+                "Code": "1012000",
+                "Status": "",
+                "Level": "10",
+                "Last Update": "3/22/2023"
+            },
+            "5": {
+                "Code": "110000",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            }
+        }
+    },
+    "ATK": {
+        "Simple Code": {
+            "1": {
+                "Code": "3099876",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "WATK": {
+        "Simple Code": {
+            "1": {
+                "Code": "1010099",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "4/20/2024"
+            },
+            "2": {
+                "Code": "1011126",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "4/20/2024"
+            },
+            "3": {
+                "Code": "6010024",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "4/20/2025"
+            },
+            "4": {
+                "Code": "7010023",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/25/2025"
+            },
+            "5": {
+                "Code": "1010810",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "5/5/2025"
+            },
+            "6": {
+                "Code": "7050301",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "5/2/2024"
+            },
+            "7": {
+                "Code": "1011126",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/21/2025"
+            },
+            "8": {
+                "Code": "2099876",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "6/22/2025"
+            },
+            "9": {
+                "Code": "2020404",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            },
+            "10": {
+                "Code": "2024434",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "7/2/2025"
+            },
+            "11": {
+                "Code": "7123456",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Neutral": {
+        "Simple Code": {
+            "1": {
+                "Code": "1019696",
+                "Status": "",
+                "Level": "6",
+                "Last Update": "3/19/2023"
+            },
+            "2": {
+                "Code": "3210102",
+                "Status": "",
+                "Level": "9",
+                "Last Update": "4/2/2023"
+            }
+        }
+    },
+    "Light": {
+        "Simple Code": {
+            "1": {
+                "Code": "4016699",
+                "Status": "",
+                "Level": "6",
+                "Last Update": "3/20/2023"
+            },
+            "2": {
+                "Code": "3210105",
+                "Status": "",
+                "Level": "9",
+                "Last Update": "4/2/2023"
+            },
+            "3": {
+                "Code": "1020345",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "6/22/2025"
+            },
+            "4": {
+                "Code": "4046666",
+                "Status": "",
+                "Level": "8",
+                "Last Update": "4/2/2023"
+            },
+            "5": {
+                "Code": "1240000",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Water": {
+        "Simple Code": {
+            "1": {
+                "Code": "3062111",
+                "Status": "",
+                "Level": "8",
+                "Last Update": "3/20/2023"
+            },
+            "2": {
+                "Code": "3210100",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "3": {
+                "Code": "7150030",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "4": {
+                "Code": "7011001",
+                "Status": "Offline",
+                "Level": "8",
+                "Last Update": "6/22/2025"
+            },
+            "5": {
+                "Code": "1110007",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "6070013",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "7": {
+                "Code": "3226325",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Wind": {
+        "Simple Code": {
+            "1": {
+                "Code": "7190001",
+                "Status": "",
+                "Level": "4",
+                "Last Update": "3/20/2023"
+            },
+            "2": {
+                "Code": "1010055",
+                "Status": "",
+                "Level": "7",
+                "Last Update": "3/20/2023"
+            },
+            "3": {
+                "Code": "3210101",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "4": {
+                "Code": "3030303",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Fire": {
+        "Simple Code": {
+            "1": {
+                "Code": "1012610",
+                "Status": "",
+                "Level": "5",
+                "Last Update": "3/20/2023"
+            },
+            "2": {
+                "Code": "3210100",
+                "Status": "Online",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "3": {
+                "Code": "3210106",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "4": {
+                "Code": "1010799",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "5": {
+                "Code": "4084545",
+                "Status": "Offline",
+                "Level": "5",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "1020001",
+                "Status": "Online",
+                "Level": "3",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Earth": {
+        "Simple Code": {
+            "1": {
+                "Code": "2022222",
+                "Status": "Offline",
+                "Level": "8",
+                "Last Update": "5/2/2024"
+            },
+            "2": {
+                "Code": "3210103",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "4/28/2024"
+            },
+            "3": {
+                "Code": "2020202",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "5/2/2024"
+            },
+            "4": {
+                "Code": "2202020",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "5/2/2024"
+            },
+            "5": {
+                "Code": "7100666",
+                "Status": "Online",
+                "Level": "9",
+                "Last Update": "5/2/2024"
+            },
+            "6": {
+                "Code": "4083005",
+                "Status": "Offline",
+                "Level": "9",
+                "Last Update": "6/22/2025"
+            },
+            "7": {
+                "Code": "2099876",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "8": {
+                "Code": "1010174",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "9": {
+                "Code": "5240001",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "10": {
+                "Code": "3011143",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "11": {
+                "Code": "1016646",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "12": {
+                "Code": "1010002",
+                "Status": "Offline",
+                "Level": "6",
+                "Last Update": "6/22/2025"
+            },
+            "13": {
+                "Code": "5236969",
+                "Status": "Offline",
+                "Level": "6",
+                "Last Update": "6/22/2025"
+            }
+        }
+    },
+    "Dark": {
+        "Simple Code": {
+            "1": {
+                "Code": "1010006",
+                "Status": "",
+                "Level": "7",
+                "Last Update": "3/20/2023"
+            },
+            "2": {
+                "Code": "6010003",
+                "Status": "",
+                "Level": "8",
+                "Last Update": "3/20/2023"
+            },
+            "3": {
+                "Code": "1016646",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "4": {
+                "Code": "5010092",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "5": {
+                "Code": "1190010",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "6": {
+                "Code": "3210104",
+                "Status": "Offline",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            },
+            "7": {
+                "Code": "1091111",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "8": {
+                "Code": "3030069",
+                "Status": "Offline",
+                "Level": "7",
+                "Last Update": "6/22/2025"
+            },
+            "9": {
+                "Code": "3030069",
+                "Status": "Online",
+                "Level": "10",
+                "Last Update": "6/22/2025"
+            }
+        }
+    }
+}

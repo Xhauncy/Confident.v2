@@ -1,0 +1,100 @@
+[
+  {
+    "id": "warrior",
+    "name": "Warrior",
+    "description": "Petarung garis depan yang tangguh dengan daya tahan tinggi dan kekuatan fisik luar biasa.",
+    "icon": "🛡️",
+    "base_stats": {
+      "VITALITY": 12,
+      "STRENGTH": 10,
+      "INTELLIGENCE": 2,
+      "AGILITY": 4,
+      "LUCK": 2,
+      "DEXTERITY": 5
+    }
+  },
+  {
+    "id": "mage",
+    "name": "Mage",
+    "description": "Penguasa sihir dengan kekuatan serangan area dan kontrol musuh dari jarak jauh.",
+    "icon": "🔮",
+    "base_stats": {
+      "VITALITY": 4,
+      "STRENGTH": 2,
+      "INTELLIGENCE": 12,
+      "AGILITY": 4,
+      "LUCK": 3,
+      "DEXTERITY": 5
+    }
+  },
+  {
+    "id": "ranger",
+    "name": "Ranger",
+    "description": "Ahli panah dan perang jarak jauh dengan akurasi tinggi dan serangan cepat.",
+    "icon": "🏹",
+    "base_stats": {
+      "VITALITY": 6,
+      "STRENGTH": 6,
+      "INTELLIGENCE": 3,
+      "AGILITY": 8,
+      "LUCK": 4,
+      "DEXTERITY": 10
+    }
+  },
+  {
+    "id": "bard",
+    "name": "Bard",
+    "description": "Penyembuh tim yang menggunakan kekuatan suci untuk menyelamatkan dan memperkuat sekutu.",
+    "icon": "💉",
+    "base_stats": {
+      "VITALITY": 6,
+      "STRENGTH": 3,
+      "INTELLIGENCE": 10,
+      "AGILITY": 3,
+      "LUCK": 5,
+      "DEXTERITY": 4
+    }
+  },
+  {
+    "id": "monk",
+    "name": "Monk",
+    "description": "Petarung jarak dekat yang cepat dan mengandalkan kecepatan serta presisi.",
+    "icon": "🥋",
+    "base_stats": {
+      "VITALITY": 8,
+      "STRENGTH": 6,
+      "INTELLIGENCE": 4,
+      "AGILITY": 8,
+      "LUCK": 4,
+      "DEXTERITY": 6
+    }
+  },
+  {
+    "id": "trickster",
+    "name": "Trickster",
+    "description": "Mengandalkan keberuntungan, tipu daya, dan kecepatan untuk menghindari dan mengecoh lawan.",
+    "icon": "🎭",
+    "base_stats": {
+      "VITALITY": 5,
+      "STRENGTH": 4,
+      "INTELLIGENCE": 6,
+      "AGILITY": 8,
+      "LUCK": 10,
+      "DEXTERITY": 5
+    }
+  },
+  {
+    "id": "tank",
+    "name": "Tank",
+    "description": "Pendobrak pertahanan tim dengan HP dan DEF tinggi, mampu menahan serangan musuh.",
+    "icon": "🪨",
+    "base_stats": {
+      "VITALITY": 15,
+      "STRENGTH": 7,
+      "INTELLIGENCE": 2,
+      "AGILITY": 3,
+      "LUCK": 2,
+      "DEXTERITY": 3
+    }
+  }
+]

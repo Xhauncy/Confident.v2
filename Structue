@@ -1,0 +1,75 @@
+your-bot-name/
+├── assets/                      # 📦 JSON data untuk semua entitas RPG
+│   ├── items.json
+│   ├── classes.json
+│   ├── mobs.json
+│   ├── quests.json
+│   └── shops.json
+│
+├── commands/                    # 🗨️ Semua command bot
+│   ├── general/
+│   │   ├── ping.js
+│   │   └── help.js
+│   ├── economy/
+│   │   ├── balance.js
+│   │   └── daily.js
+│   ├── moderation/
+│   │   └── kick.js
+│   ├── xp/
+│   │   └── rank.js
+│   └── rpg/                     # 🎮 Command RPG (lihat/ubah status pemain)
+│       ├── profile.js
+│       ├── stats.js
+│       ├── inventory.js
+│       ├── fight.js
+│       ├── quest.js
+│       ├── move.js
+│       ├── shop.js
+│       └── class.js
+│
+├── database/                    # 🗃️ Database dan migrasi struktur
+│   ├── data.db
+│   └── migrations/
+│       └── init.sql
+│
+├── events/                      # ⚡ Event Discord
+│   ├── client/
+│   │   ├── ready.js
+│   │   └── interactionCreate.js
+│   ├── guild/
+│   │   ├── guildCreate.js
+│   │   ├── guildDelete.js
+│   │   └── guildUpdate.js
+│   └── message/
+│       └── messageCreate.js
+│
+├── handlers/                    # 🧠 Handler untuk command, event, XP, DB
+│   ├── commandHandler.js
+│   ├── eventHandler.js
+│   ├── xpHandler.js
+│   └── dbHandler.js
+│
+├── rpg/                         # 🎮 Logika RPG utama
+│   ├── playerManager.js
+│   ├── inventoryManager.js
+│   ├── questManager.js
+│   ├── combatManager.js
+│   ├── shopManager.js
+│   ├── classManager.js
+│   └── worldManager.js
+│
+├── scripts/                     # ⚙️ Script CLI untuk setup data, import, dll
+│   └── importAssets.js
+│
+├── utils/                       # 🛠️ Fungsi umum & helper
+│   ├── functions.js
+│   ├── constants.js
+│   ├── logger.js
+│   ├── cooldownManager.js
+│   └── permission.js
+│
+├── .env                         # 🔐 Token dan config rahasia (DISCORD_TOKEN, DATABASE_URL, dll)
+├── .gitignore                   # 🔒 Abaikan file sensitif
+├── config.json                  # ⚙️ Config publik opsional
+├── index.js                     # 🚀 Entry point utama bot
+├── package.json                 # 📦 Dependencies & script NPM

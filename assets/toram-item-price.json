@@ -1,0 +1,98 @@
+{
+    "W": {
+        "WHITE KNIT CAP": {
+            "Item Name ": "WHITE KNIT CAP",
+            "Aliases": [],
+            "Category": "EQUIPMENT",
+            "By": "<@652687924894367754>",
+            "Last Update": "6/23/2025",
+            "Slot": {
+                "0": {
+                    "By": "<@652687924894367754>",
+                    "Spina": {
+                        "Global": "-",
+                        "ID": "-",
+                        "Last Update": "6/23/2025"
+                    }
+                },
+                "1": {
+                    "By": "<@652687924894367754>",
+                    "Spina": {
+                        "Global": "-",
+                        "ID": "-",
+                        "Last Update": "6/23/2025"
+                    }
+                },
+                "2": {
+                    "By": "<@652687924894367754>",
+                    "Spina": {
+                        "Global": "720.000.000",
+                        "ID": "-",
+                        "Last Update": "6/23/2025"
+                    }
+                }
+            }
+        }
+    },
+    "M": {
+        "MAGE FILECIA": {
+            "Item Name ": "MAGE FILECIA",
+            "Aliases": [],
+            "Category": "XTALL",
+            "By": "<@652687924894367754>",
+            "Last Update": "6/27/2025",
+            "Pieces": "1",
+            "Spina": {
+                "Global": "7.222.222",
+                "ID": "-"
+            }
+        }
+    },
+    "B": {
+        "BIRD WING": {
+            "Item Name ": "BIRD WING",
+            "Aliases": [],
+            "Category": "MATERIAL",
+            "By": "<@652687924894367754>",
+            "Last Update": "6/27/2025",
+            "Pieces": "1",
+            "Spina": {
+                "Global": "8.888",
+                "ID": "-"
+            }
+        }
+    },
+    "L": {
+        "LACE HEADRESS": {
+            "Item Name ": "LACE HEADRESS",
+            "Aliases": [],
+            "Category": "EQUIPMENT",
+            "By": "<@652687924894367754>",
+            "Last Update": "6/27/2025",
+            "Slot": {
+                "2": {
+                    "By": "<@652687924894367754>",
+                    "Spina": {
+                        "Global": "320.000.000",
+                        "ID": "-",
+                        "Last Update": "6/27/2025"
+                    }
+                }
+            }
+        }
+    },
+    "D": {
+        "DON YETI": {
+            "Item Name ": "DON YETI",
+            "Aliases": [],
+            "Category": "XTALL",
+            "By": "manafu",
+            "Last Update": "7/6/2025",
+            "Pieces": "1",
+            "Spina": {
+                "Global": "30.000",
+                "ID": "-"
+            }
+        }
+    }
+}
